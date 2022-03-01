@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Duplys for the Laird of Seualtoun, and others the late magistrats of the burgh of Irwine, to the replys given in by the present magistrats against them</title>
+            <author>Wallace, William, fl. 1689?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97025</idno>
+            <idno type="STC">Wing W493A</idno>
+            <idno type="STC">ESTC R233000</idno>
+            <idno type="EEBO-CITATION">99898092</idno>
+            <idno type="PROQUEST">99898092</idno>
+            <idno type="VID">137690</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97025)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137690)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2558:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Duplys for the Laird of Seualtoun, and others the late magistrats of the burgh of Irwine, to the replys given in by the present magistrats against them</title>
+                  <author>Wallace, William, fl. 1689?</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>1689?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Wing CD-ROM, 1996 ascribes this item to William Wallace.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Law --  Scotland --  Early works to 1800.</term>
+               <term>Scotland --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:137690:1" rendition="simple:additions"/>
+            <head>
+               <hi>DUPLYS</hi> For the Laird of <hi>Seualtoun,</hi> and others the late Magiſtrats of the Burgh of <hi>Irwine,</hi> to the REPLYS given in by the preſent Magiſtrats againſt them.</head>
+            <p>THe Laird of <hi>Seualtoun,</hi> and the other late Magiſtrats of <hi>Irwine,</hi> who were nominat by a Letter in <hi>anno</hi> 1687. (conform to the then cuſtom of the Time) to be Magiſtrats of the ſaid Burgh, to prevent the utter ruine of the ſame, being over-burdened with great Debts, and ſo impoveriſhed that they were not able to pay the Ceſs, nor repair the Har<g ref="char:EOLhyphen"/>bour, Bridge, Kirk, and ſeveral others belonging to them, which were almoſt ruinous. The ſaids late Magiſtrats did by advice of Lawers, and the conſent of the Town Council and Neighbours, procure a Gift of a Plack upon the Pint of all Ale and Beer, <hi>&amp;c.</hi> in favours of the Burgh for Nineten years, for the ends and uſes foreſaids, and for preventing of the total de<g ref="char:EOLhyphen"/>cay of the ſaid Burgh. And in order thereunto, upon the Credit of the Burgh, did borrow Five Thouſand Merks for defraying the Dues and Expenſes in procuring of the ſaid Gift.</p>
+            <p>The preſent Magiſtrats did give in a Complaint to the Lord High Commiſſioner his Grace and Eſtates of Parliament, againſt the Laird of <hi>Seualtoun</hi> and the other late Magiſtrats, cra<g ref="char:EOLhyphen"/>ving that they as Granters of Bonds, and their privat Fortunes may be lyable for the ſaid Five Thouſand Merks, and that the preſent Magiſtrats and Town may be free thereof, for the reaſons following,
+<list>
+                  <item>1. Becauſe the late Magiſtrats were impoſed upon the Town by an Arbi<g ref="char:EOLhyphen"/>trary Power, and that the Gift was illegal, againſt the priviledge of the Subject, and Claim of Right.</item>
+                  <item>2. That the Gift was procured after the report of his preſent Majeſties coming to <hi>Brittain,</hi> and the emitting his Declaration againſt impoſing of Magiſtrats, and granting ſuch Impoſitions.</item>
+                  <item>3. That the late Magiſtrats Granters of the Bonds were not repreſenters of the Burgh, not being elected by them, and ſo can only oblige themſelves and not the Burgh.</item>
+                  <item>4. That the Magiſtrats Granters of the Bonds, after the Money was borrowed, did by a po<g ref="char:EOLhyphen"/>ſterior Act of Council ordain the Money to be brought back from <hi>Edinburgh</hi> where it was ly<g ref="char:EOLhyphen"/>ing, to be applyed for the uſes mentioned in the ſaid Act, ſo that they were thereafter in <hi>mala fide</hi> to apply the Money for any other uſe, much more for paying of the ſaid Gift.</item>
+               </list>
+            </p>
+            <p>To which it was Anſwered for the late Magiſtrats, to the firſt, That albeit <hi>Seualtoun</hi> and the other late Magiſtrats do not vindicat the impoſing of Magiſtrats in late times, nor the granting of Impoſitions contrair to the Claim of Right, and Priviledge of the Subjects; yet it is uncontroverted that it was the common courſe of the time, taken by the Government tho<g ref="char:EOLhyphen"/>row the whole Kingdom, and that the conſiderable Burghs of <hi>Scotland</hi> obtained the like Gifts, ſo that thereby it is clear that that can be no ground to make the late Magiſtrats, and their own privat Fortunes lyable for the Debts contracted by them, in procuring of the ſaid Gift, which was done with conſent of the moſt part of the wwole Neighbourhood, and particularly of thir ſame preſent Magiſtrats, which they cannot refuſe; who not only before the Revolution, but even ſince the Revolution, have declared themſelves for the ſaid Gift, and if need were, time and place, and perſons could be condeſcended upon to witneſs the ſame, and thir pre<g ref="char:EOLhyphen"/>ſent Magiſtrats, and others of the Neighbourhood, who now complain againſt the late Magi<g ref="char:EOLhyphen"/>ſtrats, were then ſo far from it, that they did acknowledge the late Magiſtrats, who were ſo far from being uneaſie to the people, that they very heartily concurred in the calling of their preſent Miniſter from <hi>Holland,</hi> and in building of their Meeting-houſe, and did willing<g ref="char:EOLhyphen"/>ly contribute out of their own privat Pockets not only for building of the ſaid Meeting-houſe, but alſo for the Miniſters maintenance, during the wants of his legal Stipends, and did readily condeſcend to all their juſt and reaſonable deſires, for which they did not expect, and far leſs deſerve to be troubled with ſo unkind and dangerous a Proceſs, wherein if thir preſent Magiſtrats were to prevail, it would not only ruine the Laird of <hi>Seualtoun</hi> the then Provoſt his Family, but fifteen or ſixteen others therein concerned, who never ſaw, nor had a ſix pence of profit by that five thouſand merks; and for any reflections the preſent Magiſtrats are plea<g ref="char:EOLhyphen"/>ſed
+<pb n="2" facs="tcp:137690:2"/>to put upon the late Magiſtrats, as being impoſed by the late Government upon the Burgh, or otherways. It is Anſwered, that they themſelves were very deſirous to ſhare in the Go<g ref="char:EOLhyphen"/>vernment of the Burgh at that time, and to make the ſamine evident, <hi>John Hamilton</hi> the late and preſent Clerk, ſtudied to influence the late Magiſtrats to that end; and it is preſumed he had warrand from them for that effect, and for theſe and other good deeds, they have con<g ref="char:EOLhyphen"/>tinued him in his Office. And it were of a dangerous preparative to declare all the Acts and deeds done by Magiſtrats, impoſed upon Burghs in the late Government, void and null upon that ground, nor hath it ever hitherto yet been pretended by any Burgh in <hi>Scotland.</hi>
+            </p>
+            <p>To the 2d. it was Anſwered, that the ſame is neither relevant, nor true; for the Gift is opponed, which was long before his Majeſties landing in <hi>Britain,</hi> or emitting any Decla<g ref="char:EOLhyphen"/>ration: as alſo conform to the Acts of the Town-Council, the procuring of the ſaid Gift, was ſettled and agreed upon, ſeveral Months before the Gift was procured, and long before it came to the late Magiſtrats hands.</p>
+            <p>To the 3d. it was Anſwered, that the firſt Anſwer is opponed, whereby it is clear, that they were nominat according to the courſe of the Government for the time; and ſo they be<g ref="char:EOLhyphen"/>ing according to the Cuſtom and Dialect of theſe times, legally eſtabliſht, they had the ſole power of Adminiſtration as Magiſtrats, and conſequently to procure the ſaid Gift, as other Burghs had done, and which was lookt on at the time, not only by themſelves, but alſo by theſe ſame preſent Magiſtrats, and other Neighbours of the Town, as tending highly to the Intereſt, Benefit and Advantage of the ſaid Burgh, for the ends and uſes foreſaids, and for preventing the ruine thereof.</p>
+            <p>To the 4th it was Anſwered, that the reaſon for making that Act, for bringing back that Money from <hi>Edinburgh,</hi> was, that the procuring of the Gift was delayed ſo long, that they were altogether hopeleſs thereof; but immediatly thereafter, the Gift did come to their hands, and paſt the Great Seal, and the Money ſo far as was not advanced at the beginning of the Bargain, was payed and approven of, by an Poſterior out of the Town-Council.</p>
+            <p>Whereunto it was replyed by the preſent Magiſtrats, that the alledged conſent of Neigh<g ref="char:EOLhyphen"/>bours, to the procuring of the Gift, is ſo great a falſhood, that it is offered to be proven, that the Neighbours, did both diſſent and oppoſe, the procuring of the ſaid Gift.</p>
+            <p n="2">2. That the Gift was payed: for after his Majeſties Declaration was abroad, and the news of his Arrival every hour expected, and when no man at that time, could value the Gift worth a Groat.</p>
+            <p n="3">3. That it is the conſtant Cuſtom of the Burgh, that no Debt could lawfully be con<g ref="char:EOLhyphen"/>teaſted by their Magiſtrats, without conſent of the whole Neighbourhood, and Community.</p>
+            <p n="4">4. That the Provoſt of the Town of <hi>Drumfreis,</hi> for the time (though a Papiſt) when he had the like Gift in his offer, yet he firſt called the Community, and becauſe they diſſented, he would meddle no further in it. The foreſaid Complaint, being remitted to Commiſſion of Parliament, for reducing of Fyns and Forfeiters, and it being invidiouſly ſuggeſted to them, that the money was Imbazell'd &amp; not given out in procuring the ſaid Gift, they ordained <hi>Robert Wallace,</hi> one of the late Baillies, to give in a Declaration, to whom they payed the money, which accordingly he did: and therefore they before Anſwer, did ordain Mr. <hi>Tho<g ref="char:EOLhyphen"/>mas Wallace,</hi> of <hi>Elderſly,</hi> and <hi>George Drummond,</hi> who received the greateſt part of the mo<g ref="char:EOLhyphen"/>ney, for procuring of the foreſaid Gift, to compear before them, and declare what Sums they received thereanent, and granted Diligence for that Effect, and accordingly they were Cited, and did not compear; ſo that the Commiſſion gave their Opinion, that the late Ma<g ref="char:EOLhyphen"/>giſtrats ought to be lyable, reſerving to them Repetition, from thoſe that received the Money.</p>
+            <p>The preſent Magiſtrats being charged with Horning for payment of the ſaid Five thouſand Merks, at the Inſtance of <hi>John Craig,</hi> and <hi>John Bryce,</hi> from whom the ſame was borrowed, they did ſuſpend upon this Reaſon, that it was <hi>Lis pendens</hi> before the Parliament; and there<g ref="char:EOLhyphen"/>fore the Lords of Seſſion could not meddle with it, before the matter were determined by the Parliament; which Dilator the Lords of Seſſion ſuſtained, and now the ſaids Credi<g ref="char:EOLhyphen"/>tors, have given in a Petition to the Parliament, repreſenting that they <hi>bona fide</hi> having lent their Money, upon the Faith of the Magiſtrats and Council, who were then in poſſeſſion of the Government of the Burgh, they neither did nor were oblidg'd to know any thing of the Illegal impoſing of theſe Magiſtrats and Council upon the Town, nor did they know what way the Money was imployed, but did only lend their Money upon the Credit of the Town of <hi>Irwine,</hi> by their receiving Bonds for the ſamine, after the conſtant and uſual manner of the Burgh; nor
+<pb n="3" facs="tcp:137690:2"/>is it pretended by any other Burgh in the Kingdom, who had Magiſtrats Impoſed upon them in the like manner, nor did ever contravert any Deeds done by theſe Magiſtrats: And if it were otherways, that a Creditor who lends his Money to a Burgh ſhould be concerned whe<g ref="char:EOLhyphen"/>ther the Elections of the Magiſtrats be legal or not, and ſhould run the hazard of loſing his Mo<g ref="char:EOLhyphen"/>ney, if it were found, that they were not elected legally, then there would be few Burghs in <hi>Scotland,</hi> who would have Credit to borrow Money; And conſequently the credit of all the Burghs in <hi>Scotland</hi> would be thereby ruined. And therefore, craving that his Grace, Their Majeſties high Commiſſioner, and the Eſtates of Parliament, would be pleaſed to take the Premiſſes to their Conſideration, and to remit to the Lords of Seſſion, to diſcuſs the foreſaid Suſpenſion, and notwithſtanding of any Action depending before the Parliament.</p>
+            <p>To which Petition, thir preſent Magiſtrats have given in their Anſwers following.
+<list>
+                  <item>1. That impoſing of Magiſtrats upon Burghs by the late King, were inconſiſtent with Law, and con<g ref="char:EOLhyphen"/>ſequently no Deeds done by them can be obligatory upon, the Burgh, eſpecially in this Caſe, where the Money was applyed for the foreſaid gift which is a Crime, and to which the foreſaid Creditors, give their Aſſiſtance by furniſhing the Money after they were deſired not to Lend the ſame.</item>
+                  <item>2. That the foreſaid gift was obtained contrair to the advice of many of the Emi<g ref="char:EOLhyphen"/>nent Burgeſſes of the Place, who oppoſed the ſamen.</item>
+               </list>
+            </p>
+            <p>As to all which, and in Anſwer by way of Duply, to all that is above repreſented, it is humbly Deſired and Intreated, by the Laird of <hi>Seualtoun,</hi> and the other late Magiſtrats, that his Grace, Their Majeſties High Commiſſioner, and Eſtates of Parliament, would take unto their ſerious conſideration, theſe Points and Grounds following,
+<list>
+                  <item>1. That the late Magi<g ref="char:EOLhyphen"/>ſtrats, were cled with the Authority of the Burgh for the time, and conſequently, had pow<g ref="char:EOLhyphen"/>er to do ſuch Acts and Deeds in favours of the Burgh, which at that time, would ſo much have tended to the Profit and Advantage of the Burgh, and it is known, to ſeveral of the Mem<g ref="char:EOLhyphen"/>bers of Parliament, that the ſaid Burgh of <hi>Irwine,</hi> was at that time, and is yet in ſuch a deplo<g ref="char:EOLhyphen"/>rable and poor Condition, that nothing but a remedy, like unto the foreſaid Gift (which would have proven very advantagious to the Burgh, if not Repealed by Law) can in all humble probability, yet prevent the total decay of the ſaid Burgh, notwithſtanding of the great pains taken, by the preſent Magiſtrats, to recall their Predeceſſors, Deeds, which by ap<g ref="char:EOLhyphen"/>pearance is not the way, to prevent further decay to the Burgh, but by the expences of ſuch needleſs Pleas, may be a mean to add to the ſamine.</item>
+                  <item>2. It cannot be pretended, that ever the late Magiſtrats did Inhanſe or Imbazle a ſix pence of the Towns Goods, but upon the contrair, they were ſo carefull and tender of the Credit of the Burgh, that what was ſpent in Relation to the Towns Affairs, was for the moſt part, out of <hi>Seualtouns</hi> own privat Money, and the Towns Revenues were ſet a-part, for payment of the Towns Debts, which conſiſts with the knowledge of their preſent Magiſtrats, who cannot deny upon their Oath, that they gave their Advice, Concurrance and Conſent, ſo far as they were concerned at the time, for procuring of the ſaid Gift, and any pretending Oppoſition, made by the other Neighbours againſt the procuring thereof, it was only done by the Brewars and Venters of Ale, them<g ref="char:EOLhyphen"/>ſelves.</item>
+                  <item>3. The Bonds granted for the foreſaids five Thouſand Merks, did only oblige the Town and the then Magiſtrats, and their Succeſſors in Office: So that it is contrair to all Law, by the Conception of theſe Bonds, to oblige the Subſcrivers thereof, as privat Perſons, who are <hi>functi officio,</hi> to pay the ſamine.</item>
+                  <item>4. The late Magiſtrats, can never be ſaid to have Miſ<g ref="char:EOLhyphen"/>imployed the Money, in procuring of the foreſaid Gift, becauſe there was an abſolute neceſſi<g ref="char:EOLhyphen"/>ty of ſome help to the Burgh, for preventing the utter ruine thereof. And Gifts of the like nature, being at that time uſual in other Burghs, and the Gift it ſelf would have been ſo bene<g ref="char:EOLhyphen"/>ficial, that in a very ſhort time, it would have liberat the Town of all Debts, and that it would have repaired the Harbour, Kirk, and others, for which it was deſigned, whereby it is clear to any impartial Man. That the late Magiſtrats did act moſt Candidly and Pro<g ref="char:EOLhyphen"/>fitably, for the good of the Burgh for the time: And it were a very hard matter, that becauſe the Gift was by Law taken away, that the Magiſtrats who procured the ſamine, and were acting Frugally and Advantagiouſly for the good of the Burgh, for the time, ſhould be Sufferers thereby.</item>
+                  <item>5. It is calumnious to alledge, that the Burgh of <hi>Irwine</hi> was never in uſe, to grant Bonds without the Conſent the whole Neighbour-hood, for their conſtant Cuſtom, and former Bonds granted by them, are opponed. And as to that pretence, that the Neighbourhood of <hi>Dumfreis,</hi> having diſaſſented from procuring of the like Gift, and there<g ref="char:EOLhyphen"/>upon that Provoſt (though a Papiſt) did forbear to meddle further therein. It is Anſwer<g ref="char:EOLhyphen"/>ed, that the ſamine is both Frivulous and Calumnious, becauſe the remanent Magiſtrats and Town-Council of <hi>Dumfreis,</hi> having oppoſed the ſaid Gift: Therefore, the Provoſt by him<g ref="char:EOLhyphen"/>ſelf
+<pb n="4" facs="tcp:137690:3" rendition="simple:additions"/>would meddle no farther therein, and the hail other grounds of Complaint, againſt the late Magiſtrats, are ſufficiently taken of by the Anſwers above-mentioned.</item>
+               </list>
+            </p>
+            <p>In Reſpect of all which, the Laird of <hi>Seualtoun,</hi> and the other late Magiſtrats, who reaped no Advantage by their Office of Magiſtracy, but Acted Faithfully and Candidly for the good of the Burgh, without the propoſal of the leaſt Advantage to themſelves, but upon the contrair, did ſpend of their own Money upon the Towns Affairs, they ought therefore to be aſſoilȝied from ſuch an unkind and groundleſs Complaint, which would tend ſo much to the prejudice of the late Magiſtrats, and would ruine the Faith and Cre<g ref="char:EOLhyphen"/>dit of the whole Burghs of <hi>Scotland;</hi> &amp; if any Difficulty remain with the Parliament upon the Circumſtances above Repreſented which may afford a long and Cotentious Plea; by leading of Probation and otherwayes: And which may be an in-let to many other ſuch Pleas of the like Nature. It is hoped that His Grace and the Eſtates of Parliament will remit the whole Affairs to be decided in Law by the Lords of Seſſion.</p>
+            <pb facs="tcp:137690:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
